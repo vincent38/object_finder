@@ -1,4 +1,4 @@
-#  :mag:オブジェクトを見つけましょう
+#  :mag:オブジェクトを見つけましょう!
 *Let's find objects !*
 
 ## What is this software ?
@@ -21,6 +21,7 @@ Then, launch the main.py, and let the program generate the report. You will find
 * Model used to generate the modules : ssd_mobilenet_v2_coco_2018_03_29
 * Please ensure that you are using the same tensorflow version for app usage and module generation !
 * Please ensure that the folder data is present and contains at least one fubfolder with at least one image.
+* The output folder will be created automatically if not yet present.
 
 ## Warning
 This program is provided at is it with no warranty. You can edit it to fit your needs, but please tell me beforehand !
