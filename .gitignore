@@ -1,0 +1,6 @@
+data/*
+models/flower/*
+output/*
+Project.ipynb
+.ipynb_checkpoints
+__pycache__
